@@ -1,0 +1,51 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Template name="elementalTableElement" src="project://database/Assets/UXML/elementalTableElement.uxml?fileID=9197481963319205126&amp;guid=6f8aff7e1bab80ddd92af1781b81d931&amp;type=3#elementalTableElement" />
+    <ui:VisualElement style="flex-grow: 1; padding-top: 5%; padding-right: 10%; padding-bottom: 5%; padding-left: 10%;">
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:VisualElement style="flex-grow: 1; flex-direction: row; justify-content: space-between;">
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-grow: 1; flex-direction: row; justify-content: space-between;">
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-grow: 1; flex-direction: row; justify-content: space-between;">
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-grow: 1; flex-direction: row; justify-content: space-between;">
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+                <ui:Instance template="elementalTableElement" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
